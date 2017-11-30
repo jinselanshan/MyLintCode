@@ -1,0 +1,2 @@
+# MyLintCode
+MyLintCode
